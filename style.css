@@ -673,3 +673,25 @@ a, button {
         font-size: 1.5em;
     }
 }
+/* Seção Ecopontos */
+.ecopontos {
+    padding: 40px 20px;
+    background-color: var(--verde-musgo-claro);
+    text-align: center;
+}
+
+.ecopontos h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: var(--verde-musgo-escuro);
+}
+
+.ecoponto-card {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid var(--verde-musgo-medio);
+    background-color: var(--bege-fundo);
+    max-width: 400px;
+    border-radius: 8px;
+    color: var(--texto);
+}
